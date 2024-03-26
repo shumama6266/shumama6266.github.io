@@ -1,0 +1,19 @@
+/* General Website Style rules */
+body {
+    font-family: "Helvetica", Sans-Serif;
+  }
+  
+  .background-example
+   {
+  background-image: url("image2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+  .font
+  {
+    font-size: 15pt;
+    font-family: 'Segoe UI';
+    font-style: italic;
+  }
+
+
